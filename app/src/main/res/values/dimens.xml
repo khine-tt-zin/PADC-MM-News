@@ -32,4 +32,7 @@
     <dimen name="text_big_3x">80sp</dimen>
     <dimen name="logo_size">60dp</dimen>
     <dimen name="size_tappable_small">48dp</dimen>
+    <dimen name="button_large_size">46dp</dimen>
+    <dimen name="news_details_publication_logo_margin_bottom">36dp</dimen>
+
 </resources>
